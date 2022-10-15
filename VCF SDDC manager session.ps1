@@ -1,4 +1,4 @@
-# Variables
+# Variables adjust to needs
 $SDDCM_FQDN = "sddcm01.scribblecloud.lab"
 $SDDCM_USERNAME = "username"
 $SDDCM_PASSWORD = "password"
